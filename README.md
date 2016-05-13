@@ -6,7 +6,7 @@ Tic Chat Toe is a version of Tic Tac Toe that is played using the command line. 
 
 Download the file and run it from the working directory
 
-'''
+```
 $ python tic_chat_toe.py
-'''
+```
 
